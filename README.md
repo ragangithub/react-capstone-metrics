@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://metrics-h00p.onrender.com/)
+- [Live Demo Link](https://metrics-pt6x.onrender.com)
 - [Video Link](https://www.loom.com/share/a0af6c9274134663bba63be39e53f896)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
